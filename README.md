@@ -1,3 +1,3 @@
 # My-Captain-C-Workshop
 
-These are the assignments which were given in the Mycaptain Python language Workshop in the month of July 2021.
+These are the assignments which were given in the Mycaptain C language Workshop in the month of November 2020.
